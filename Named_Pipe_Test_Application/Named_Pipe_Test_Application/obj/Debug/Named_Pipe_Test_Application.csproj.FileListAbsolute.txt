@@ -1,0 +1,7 @@
+C:\Users\soren\Documents\Visual Studio 2017\Projects\Named_Pipe_Test_Application\Named_Pipe_Test_Application\bin\Debug\Named_Pipe_Test_Application.exe.config
+C:\Users\soren\Documents\Visual Studio 2017\Projects\Named_Pipe_Test_Application\Named_Pipe_Test_Application\bin\Debug\Named_Pipe_Test_Application.exe
+C:\Users\soren\Documents\Visual Studio 2017\Projects\Named_Pipe_Test_Application\Named_Pipe_Test_Application\bin\Debug\Named_Pipe_Test_Application.pdb
+C:\Users\soren\Documents\Visual Studio 2017\Projects\Named_Pipe_Test_Application\Named_Pipe_Test_Application\obj\Debug\Named_Pipe_Test_Application.csprojResolveAssemblyReference.cache
+C:\Users\soren\Documents\Visual Studio 2017\Projects\Named_Pipe_Test_Application\Named_Pipe_Test_Application\obj\Debug\Named_Pipe_Test_Application.csproj.CoreCompileInputs.cache
+C:\Users\soren\Documents\Visual Studio 2017\Projects\Named_Pipe_Test_Application\Named_Pipe_Test_Application\obj\Debug\Named_Pipe_Test_Application.exe
+C:\Users\soren\Documents\Visual Studio 2017\Projects\Named_Pipe_Test_Application\Named_Pipe_Test_Application\obj\Debug\Named_Pipe_Test_Application.pdb
